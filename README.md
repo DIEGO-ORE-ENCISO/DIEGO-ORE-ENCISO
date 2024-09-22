@@ -25,7 +25,14 @@
   </a>
 </p>
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul >
+    <summary><h2 style="display: inline-block">Echa un vistazo a mi Portfolio 🚀</h2></summary>
+  </ul>
+</div>
 
+<a href="[https://www.instagram.com/diego.ore12/](https://itsdiego.xyz/)" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/279c6ce8-58b4-43a7-87ef-f60ade3f47c3)" alt="portafolio Web"  /></a>
 
 
 
@@ -82,6 +89,7 @@
 <a href="https://www.instagram.com/diego.ore12/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 
   
+
 </p>
 
 
