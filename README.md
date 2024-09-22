@@ -32,10 +32,7 @@
   </ul>
 </div>
 
-<a href="[https://www.instagram.com/diego.ore12/](https://itsdiego.xyz/)" target="blank">
-
-</a>
-  ![image](https://github.com/user-attachments/assets/9cc80aae-aaff-4edb-98b4-b9aac083bbae)
+[![image](https://github.com/user-attachments/assets/a8669906-2d87-413c-aa8c-28dbf00cc6a8)](https://itsdiego.xyz/)
 
 
 <!--- stats & Trophy (start) -->
