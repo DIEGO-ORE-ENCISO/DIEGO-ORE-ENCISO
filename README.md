@@ -32,7 +32,10 @@
   </ul>
 </div>
 
-<a href="[https://www.instagram.com/diego.ore12/](https://itsdiego.xyz/)" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/279c6ce8-58b4-43a7-87ef-f60ade3f47c3)" alt="portafolio Web"  /></a>
+<a href="[https://www.instagram.com/diego.ore12/](https://itsdiego.xyz/)" target="blank">
+  ![image](https://github.com/user-attachments/assets/9cc80aae-aaff-4edb-98b4-b9aac083bbae)
+
+</a>
 
 
 
