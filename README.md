@@ -33,11 +33,9 @@
 </div>
 
 <a href="[https://www.instagram.com/diego.ore12/](https://itsdiego.xyz/)" target="blank">
-  ![image](https://github.com/user-attachments/assets/9cc80aae-aaff-4edb-98b4-b9aac083bbae)
 
 </a>
-
-
+  ![image](https://github.com/user-attachments/assets/9cc80aae-aaff-4edb-98b4-b9aac083bbae)
 
 
 <!--- stats & Trophy (start) -->
