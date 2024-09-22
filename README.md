@@ -28,7 +28,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul >
-    <summary><h2 style="display: inline-block">Echa un vistazo a mi Portfolio 🚀</h2></summary>
+    <summary><h2 style="display: inline-block">Echa un vistazo a mi Portafolio Web 🚀</h2></summary>
   </ul>
 </div>
 
